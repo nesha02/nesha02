@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science Student from Sri Lanka.</h3>
 
 ---
-- 🔭 I’m currently working on **Movie Recommendation System**
+- 🔭 I’m currently working on **Data Science Projects**
 
 - 🌱 I’m currently learning **advanced data mining techniques**
 
